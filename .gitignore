@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Ambientes
+.venv/
+venv/
+.env
+
+# Ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Saídas locais
+outputs/
+
+# Material pessoal de estudo e documentos de avaliação (ficam só na máquina local)
+docs/
+Data/*.jpeg
+Data/*.jpg
+Data/*.png
+
+# Editores e sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
